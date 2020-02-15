@@ -1,0 +1,15 @@
+#rock{
+    background-color: gray;
+    color: black;
+}
+
+#paper{
+    background-color: white;
+    color: black;
+}
+
+#scissors{
+    background-color: red;
+    color: black;
+
+}
